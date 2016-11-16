@@ -1,0 +1,7 @@
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\obj\Debug\dexTest.csprojResolveAssemblyReference.cache
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\bin\Debug\dexTest.dll
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\bin\Debug\dexTest.pdb
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\bin\Debug\dex.dll
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\bin\Debug\dex.pdb
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\obj\Debug\dexTest.dll
+C:\Users\20499502\Dropbox\code\dex\dex\dexTest\obj\Debug\dexTest.pdb

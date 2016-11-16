@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dex", "dex\dex.csproj", "{74DB11BE-8386-424A-B854-50CFA2D2E1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dexTest", "dexTest\dexTest.csproj", "{5E96AD42-9251-499E-96CB-C9C4C7AAB967}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs22
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = dex\\dex.csproj
+		SccProjectName1 = dex
+		SccLocalPath1 = dex
+		SccProjectUniqueName2 = dexTest\\dexTest.csproj
+		SccProjectName2 = dexTest
+		SccLocalPath2 = dexTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DB11BE-8386-424A-B854-50CFA2D2E1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DB11BE-8386-424A-B854-50CFA2D2E1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DB11BE-8386-424A-B854-50CFA2D2E1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DB11BE-8386-424A-B854-50CFA2D2E1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E96AD42-9251-499E-96CB-C9C4C7AAB967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E96AD42-9251-499E-96CB-C9C4C7AAB967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E96AD42-9251-499E-96CB-C9C4C7AAB967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E96AD42-9251-499E-96CB-C9C4C7AAB967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
